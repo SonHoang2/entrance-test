@@ -40,7 +40,7 @@ docker compose up --build
 
 **1. Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SonHoang2/entrance-test.git
    cd "Task 3"
    ```
 
